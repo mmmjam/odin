@@ -13,17 +13,29 @@ $main-shadow: 0 4px 6px rgba(55,65,80,0.7);
 $hover-shadow: 0px 4px 8px rgba(45, 66, 70, 0.1);
 
 // Core colors
-$primary-color: #ff3abb !default;
-$primary-color-dark: #0f1113!default;
-$secondary-color: #d1d1e9 !default;
-$secondary-color-dark: #b3b3cb !default;
+$primary-color: #e25050 !default;
+$primary-color-dark: #85200c!default;
+$secondary-color: #fffffe !default;
+$secondary-color-dark: #fffffe !default;
 $white: #fffffe;
-$highlight-color: #3498db;
+$highlight-color: #dd2e2e;
+
+//Default core colors
+$default-primary-color: #e25050 !default;
+$default-primary-color-dark: #e25050!default;
+$default-secondary-color: #d1d1e9 !default;
+$default-secondary-color-dark: #b3b3cb !default;
+$default-white: #fffffe;
+$default-highlight-color: #3498db;
+$default-dark-color: #2b2c34 !default;
+$default-gray-color: #d7d8e1 !default;
+$default-gray-color-light: #f5f6ff !default;
+$default-gray-color-dark: #9b9caf !default;
 
 // Gray colors
-$dark-color: #2b2c34 !default;
-$gray-color: #d7d8e1 !default;
-$gray-color-light: #f5f6ff !default;
+$dark-color: #260C1A !default;
+$gray-color: #fffffe !default;
+$gray-color-light:#e76a6a !default;
 $gray-color-dark: #9b9caf !default;
 
 $border-color: $gray-color-light !default;
