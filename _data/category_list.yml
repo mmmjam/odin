@@ -1,6 +1,24 @@
 #This file defines all the categories you are using
 
 
+workshops:
+  name: Workshops
+  description: Learn about upcoming workshops here!
+overview:
+  name: Overview
+  description: Welcome!
+rules-and-guidelines:
+  name: Rules and Guidelines
+  description: Learn about M3J rules here
+about-us:
+  name: About Us
+  description: Learn more about who we are
+faqs:
+  name: FAQs
+  description: Here are some answers to frequently asked questions
+resources:
+  name: Resources
+  description: Here are some resources to get you started
 using-subcategories:
   name: Using Subcategories
   description: Learn to use subcategories!
@@ -10,3 +28,4 @@ using-odin:
 customizing-odin:
   name: Customizing Odin
   description: Welcome to Odin, time to get started
+

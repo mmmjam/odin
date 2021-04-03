@@ -1,6 +1,29 @@
-#Tihs file defines all categories that live within a parent category
+#This file defines all categories that live within a parent category
 
 
+#FAQs
+question-one:
+  name: Question One
+  parent-category: faqs
+  parent-category-name: FAQs
+  description: First question text
+question-two:
+  name: Question Two
+  parent-category: faqs
+  parent-category-name: FAQs
+  description: Second question text
+question-three:
+  name: Question Three
+  parent-category: faqs
+  parent-category-name: FAQs
+  description: Third question text
+question-four:
+  name: Question Four
+  parent-category: faqs
+  parent-category-name: FAQs
+  description: Fourth question text
+
+#Using Subcategories
 subcategory-one:
   name: Subcategory One
   parent-category: using-subcategories
