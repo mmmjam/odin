@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-incremental: true
-# incremental: false
+# incremental: true
+incremental: false
 
 title: M3J
 description: M3J is a free virtual math modeling challenge for fifth to ninth graders!
