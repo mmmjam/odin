@@ -25,10 +25,10 @@ question-four:
 
 #Using Subcategories
 subcategory-one:
-  name: Subcategory One
+  name: Subcategory UWU
   parent-category: using-subcategories
   parent-category-name: Using Subcategories
-  description: This is your first subcategory!
+  description: It has updated.
 subcategory-two:
   name: Subcategory Two
   parent-category: using-subcategories
