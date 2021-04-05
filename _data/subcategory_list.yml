@@ -19,22 +19,32 @@ subcategory-three:
 
 #Workshops
 workshop-one:
-  name: Workshop One
+  name: Math Modeling 101
   parent-category: workshops
   parent-category-name: Workshops
   description: The first workshop.
 workshop-two:
-  name: Workshop Two
+  name: Python
   parent-category: workshops
   parent-category-name: Workshops
   description: The second workshop.
 workshop-three:
-  name: Workshop Three
+  name: LaTeX & Scientific/Technical Writing
   parent-category: workshops
   parent-category-name: Workshops
   description: The third workshop.
 workshop-four:
-  name: Workshop Four
+  name: Excel
+  parent-category: workshops
+  parent-category-name: Workshops
+  description: The fourth workshop.
+workshop-five:
+  name: Team Skills and Collaboration
+  parent-category: workshops
+  parent-category-name: Workshops
+  description: The third workshop.
+workshop-six:
+  name: Math Modeling 202
   parent-category: workshops
   parent-category-name: Workshops
   description: The fourth workshop.
