@@ -1,28 +1,5 @@
 #This file defines all categories that live within a parent category
 
-
-#FAQs
-question-one:
-  name: Question One
-  parent-category: faqs
-  parent-category-name: FAQs
-  description: First question text
-question-two:
-  name: Question Two
-  parent-category: faqs
-  parent-category-name: FAQs
-  description: Second question text
-question-three:
-  name: Question Three
-  parent-category: faqs
-  parent-category-name: FAQs
-  description: Third question text
-question-four:
-  name: Question Four
-  parent-category: faqs
-  parent-category-name: FAQs
-  description: Fourth question text
-
 #Using Subcategories
 subcategory-one:
   name: Subcategory UWU
@@ -39,3 +16,37 @@ subcategory-three:
   parent-category: using-subcategories
   parent-category-name: Using Subcategories
   description: This is your third subcategory!
+
+#Workshops
+workshop-one:
+  name: Workshop One
+  parent-category: workshops
+  parent-category-name: Workshops
+  description: The first workshop.
+workshop-two:
+  name: Workshop Two
+  parent-category: workshops
+  parent-category-name: Workshops
+  description: The second workshop.
+workshop-three:
+  name: Workshop Three
+  parent-category: workshops
+  parent-category-name: Workshops
+  description: The third workshop.
+workshop-four:
+  name: Workshop Four
+  parent-category: workshops
+  parent-category-name: Workshops
+  description: The fourth workshop.
+
+#About us
+about-us-one:
+  name: Who are we?
+  parent-category: about-us
+  parent-category-name: About Us
+  description: A bit of background on the M<sup>3</sup>J team.
+about-us-two:
+  name: What is M<sup>3</sup>J?
+  parent-category: about-us
+  parent-category-name: About Us
+  description: A bit of background as to how M<sup>3</sup>J came about.
