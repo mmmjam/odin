@@ -1,11 +1,11 @@
 ---
 layout: default
-category: overview
-title: Overview
-date:
-author:
-short-description:
+category: about-us
+subcategory: about-us-two
+title: What is M<sup>3</sup>J?
 ---
+
+
 {% include header.html %}
 
 {% assign page_category = site.data.category_list[page.category] %}
@@ -24,9 +24,9 @@ short-description:
             <li class="breadcrumb-item">
               <a href="../{{ page.category }}">{{ page_category.name }}</a>
             </li>
-            <!-- <li class="breadcrumb-item">
+            <li class="breadcrumb-item">
               <a href="#">{{ page.title }}</a>
-            </li> -->
+            </li>
           </ul>
           <h2 class="text-light text-bold">{{ page.title }}</h2>
           <p class="text-light mb-0">{{ page.short-description }}</p>
