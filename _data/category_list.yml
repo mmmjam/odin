@@ -12,10 +12,10 @@ rules-and-guidelines:
   description: Learn about M3J rules here
 about-us:
   name: About Us
-  description: Learn more about who we are
+  description: 
 faqs:
   name: FAQs
-  description: Here are some answers to frequently asked questions
+  description: Some answers to frequently asked questions
 resources:
   name: Resources
   description: Here are some resources to get you started
