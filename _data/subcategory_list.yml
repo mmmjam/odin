@@ -50,3 +50,8 @@ about-us-two:
   parent-category: about-us
   parent-category-name: About Us
   description: A bit of background as to how M<sup>3</sup>J came about.
+about-us-three:
+  name: Contact Us
+  parent-category: about-us
+  parent-category-name: About Us
+  description: Contact us here!
