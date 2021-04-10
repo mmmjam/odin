@@ -24,6 +24,9 @@ layout: default
         <h2 class="text-light text-bold">{{ page_category.name }}</h2>
         <p class="text-light mb-2">{{ page_category.description }}</p>
       </div>
+      
+      {{ content }}
+      
       {% if page.has-subcategories == true %}
         {% for subcategory in site.data.subcategory_list %}
         {% capture subcategory_name %}{{ subcategory | first }}{% endcapture %}
@@ -35,6 +38,7 @@ layout: default
                 <div class="card-body text-center my-4">
                   <h5 class="text-bold">{{ page_subcategory.name }}</h5>
                       
+                  <!-- just some info about number of articles within each subcategory -->
                   <!-- {% if subcategory[1].size == 1 %}
                   <p class="m-0">{{ category | last | size }} article</p>
                   {% else %}

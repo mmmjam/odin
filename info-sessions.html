@@ -1,33 +1,11 @@
 ---
-layout: default
+layout: category
+category: info-sessions
+title: Info Sessions
+has-subcategories: true
 ---
 
-{% include header.html %}
-
-{% assign page_category = site.data.category_list[page.category] %}
-
-
-<div class="container-full">
-    <div class="container grid-xl">
-      <div class="mt-12 show-md"></div>
-      <div class="mt-8"></div>
-      <div class="columns negative-m-xl">
-        <div class="column col-12">
-          <ul class="breadcrumb">
-            <li class="breadcrumb-item">
-              <a href="{{ site.url }}{{ site.baseurl }}">Home</a>
-            </li>
-            <li class="breadcrumb-item">
-              <a href="../{{ page.category }}">{{ page_category.name }}</a>
-            </li>
-            <li class="breadcrumb-item">
-              <a href="#">{{ page.title }}</a>
-            </li>
-          </ul>
-          <h2 class="text-light text-bold">{{ page.title }}</h2>
-          <p class="text-light mb-0">{{ page.short-description }}</p>
-        </div>
-        <div class="column col-12">
+<div class="column col-12">
           <div class="card">
             <div class="card-body">
                 <!-- {% if site.use_authors == true %}
@@ -48,14 +26,12 @@ layout: default
                   </div>
                 {% endif %} -->
 
-              	<p>{{ page.pdf-description }}</p>
-              	<p>{{ page.pdf-link }}</p>
+              	<h5>What's happening after we submit?</h5>
+              	<p>Although you'll stop working on your math modeling papers by 10AM on April 25th, the fun doesn't stop there! From then until our Awards Ceremony at 6:30 PM, we will be hosting info sessions about the schools hosting this event: WPI and the Massachusetts Academy of Math and Science! This is a great opportunity to meet the people behind M<sup>3</sup>J, get some tips about college, and gain more exposure to STEM.</p>
+              	<p>While these info sessions are not mandatory nor necessary, we hope you come to at least one! Please see below for a quick summary about each info session. All info sessions will be recorded and later made publicly available if you cannot attend.</p>
+              	<p><strong>Note that your info session attendance has no impact on your team's standing or final judging during the jam.</strong></p>
 
 
             </div>
           </div>
         </div>
-        {% include more-help.html %}
-      </div>
-    </div>
-  </div>

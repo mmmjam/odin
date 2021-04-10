@@ -1,8 +1,7 @@
 #This file defines all the categories you are using
 
-
-workshops:
-  name: Workshops
+schedule:
+  name: Schedule
   description: Learn about upcoming workshops here!
 overview:
   name: Overview

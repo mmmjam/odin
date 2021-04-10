@@ -65,3 +65,32 @@ about-us-three:
   parent-category: about-us
   parent-category-name: About Us
   description: Contact us here!
+
+#Schedule
+workshops:
+  name: Workshops
+  parent-category: schedule
+  parent-category-name: Schedule
+  description: Some information on upcoming workshops.
+info-sessions:
+  name: Info Sessions
+  parent-category: schedule
+  parent-category-name: Schedule
+  description: Some information on upcoming info sessions.
+
+#Info Sessions
+info-session-one:
+  name: Session 1
+  parent-category: info-sessions
+  parent-category-name: Info Sessions
+  description: The first info session.
+info-session-two:
+  name: Session 2
+  parent-category: info-sessions
+  parent-category-name: Info Sessions
+  description: The second info session.
+info-session-three:
+  name: Session 3
+  parent-category: info-sessions
+  parent-category-name: Info Sessions
+  description: The third info session.
