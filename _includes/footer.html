@@ -35,6 +35,11 @@
             {% else %}
             <a href="http://instagram.com/{{site.instagram_username}}" target="_blank"><i class='uil uil-instagram'></i></a>
             {% endif %}
+            
+            {% if site.youtube == null %}
+            {% else %}
+            <a href="{{site.youtube}}" target="_blank"><i class='uil uil-youtube'></i></a>
+            {% endif %}
           </div>
         <p>© 20{{ site.time | date: '%y' }} All rights reserved.</p>
         
