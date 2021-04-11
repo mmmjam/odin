@@ -16,7 +16,7 @@ category: resources
 </p>
 <p>You drive to school every day. On the route you take from home to school, there are several gas stations. Unfortunately, the prices on your route are always high. A friend tells you she buys her gas at a station several miles off your normal route where the prices are cheaper. A diagram of the gas stations nearby and their prices are shown below:
 </p>
-<p>[insert picture here]</p>
+<img src="../assets/problem.png" alt="Image of the problem" width="100%">
 <p>Which gas station would be the most economical for you to go to?
 </p>
 <h5>Sample Paper</h5>
