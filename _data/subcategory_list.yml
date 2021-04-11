@@ -80,27 +80,17 @@ info-sessions:
 
 #Info Sessions
 info-session-one:
-  name: Mass Academy
+  name: Session 1
   parent-category: info-sessions
   parent-category-name: Info Sessions
   description: The first info session.
 info-session-two:
-  name: FRC Robotics
+  name: Session 2
   parent-category: info-sessions
   parent-category-name: Info Sessions
   description: The second info session.
 info-session-three:
-  name: Projects at Mass Academy
+  name: Session 3
   parent-category: info-sessions
   parent-category-name: Info Sessions
   description: The third info session.
-info-session-four:
-  name: WPI Summer Programs
-  parent-category: info-sessions
-  parent-category-name: Info Sessions
-  description: The fourth info session.
-info-session-five:
-  name: Life at Mass Academy
-  parent-category: info-sessions
-  parent-category-name: Info Sessions
-  description: The fifth info session.
