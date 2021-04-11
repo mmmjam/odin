@@ -27,7 +27,7 @@ baseurl: /odin # the subpath of your site, e.g. /support
 url: https://mmmjam.github.io # the base hostname AND PROTOCOL for your site, e.g. http://example.com
 permalink: /:categories/:title
 
-content_type: Massachusetts Math Modeling Jam #Define whether this is a knowledge base, help center, or something else
+content_type: #Massachusetts Math Modeling Jam #Define whether this is a knowledge base, help center, or something else
 use_authors: false #Set this to false to disable showing post authors
 
 brand_logo: logo.png
@@ -58,8 +58,8 @@ nav_item_two_link: mailto:mmmjam.team@gmail.com
 nav_item_three: #
 nav_item_three_link: #
 
-nav_button: Return to M3J Home
-nav_button_link: https://mmmjam.github.io
+nav_button: Register
+nav_button_link: https://wpi.qualtrics.com/jfe/form/SV_4JBDYhsAq8jDWzI
 
 # More Help
 help_one_title: #

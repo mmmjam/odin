@@ -2,7 +2,7 @@
 layout: misc-post
 title: Submissions
 date: 2019-11-05 08:44:38 -0400
-category: rules-and-guidelines
+category: 
 ---
 
 <p>Each team is expected to submit a final math modeling paper and can also submit an optional elevator pitch to win a raffle.

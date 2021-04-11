@@ -2,7 +2,7 @@
 layout: misc-post
 title: Respect and Tolerance
 date: 2019-11-05 08:44:38 -0400
-category: rules-and-guidelines
+category: 
 ---
 
 <p>The Massachusetts Math Modeling Jam is committed to providing a safe and positive environment for everyone, regardless of virtual barriers. Every participant, mentor, volunteer, judge, organizer, and other M<sup>3</sup>J associate is required to be RESPECTFUL & MATURE.

@@ -2,7 +2,7 @@
 layout: misc-post
 title: Participants per Team
 date: 2019-11-05 08:44:38 -0400
-category: rules-and-guidelines
+category: 
 ---
 
 <p>M<sup>3</sup>J is a collaborative event! Doing a modeling project is much easier with a group, especially on a time limit. When one teammate is analyzing data, another might be drafting the report while a third is testing different equations! For this reason, each competing team must have 3-4 members. All modelers must be based in Massachusetts.

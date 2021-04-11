@@ -2,7 +2,7 @@
 layout: misc-post
 title: Time Limit
 date: 2019-11-05 08:44:38 -0400
-category: rules-and-guidelines
+category: 
 ---
 
 <p>In total, each team will have 24 hours to develop a math model and submit their final report.

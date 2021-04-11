@@ -2,7 +2,7 @@
 layout: misc-post
 title: Academic Honesty
 date: 2019-11-05 08:44:38 -0400
-category: rules-and-guidelines
+category:
 ---
 
 <p>Academic honesty is the principle of being honest in all the work you do. In the context of M<sup>3</sup>J, an academically honest team creates their own model and reports it without cheating or presenting the work of others as their own.</p>

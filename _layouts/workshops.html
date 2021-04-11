@@ -53,8 +53,13 @@ layout: default
               	<h5>Overview</h5>
               	<p>{{ page.overview }}</p>
               	<p><strong>{{ page.note }}</strong></p>
-              	<h5>Prerequisites</h5>
+              	
+              	{% if page.prereqs == null %}
+            	{% else %}
+            	<h5>Prerequisites</h5>
               	<p>{{ page.prereqs }}</p>
+            	{% endif %}
+ 
               	<h5>Additional Resources</h5>
               	<p><a href={{ page.link-1 }}>{{ page.link-1-text }}</a>, <a href={{ page.link-2 }}>{{ page.link-2-text }}</a>, <a href={{ page.link-3 }}>{{ page.link-3-text }}</a></p>
             

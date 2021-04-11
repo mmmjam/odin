@@ -2,7 +2,7 @@
 layout: misc-post
 title: Elevator Pitch
 date: 2019-11-05 08:44:38 -0400
-category: rules-and-guidelines
+category: 
 ---
 
 <p>Submitting an elevator pitch is an optional component of the 2021 math jam for a team. However, anyone who submit a speech will automatically be eligible in the raffle for a gift card!</p>

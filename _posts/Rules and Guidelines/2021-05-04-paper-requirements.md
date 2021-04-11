@@ -2,7 +2,7 @@
 layout: misc-post
 title: Paper Requirements
 date: 2019-11-05 08:44:38 -0400
-category: rules-and-guidelines
+category: 
 ---
 
 <p>Submitting a paper is a required component of the 2021 math jam.
