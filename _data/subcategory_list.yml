@@ -49,22 +49,6 @@ workshop-six:
   parent-category-name: Workshops
   description: The fourth workshop.
 
-#About us
-about-us-one:
-  name: Who are we?
-  parent-category: about-us
-  parent-category-name: About Us
-  description: A bit of background on the M<sup>3</sup>J team.
-about-us-two:
-  name: What is M<sup>3</sup>J?
-  parent-category: about-us
-  parent-category-name: About Us
-  description: A bit of background as to how M<sup>3</sup>J came about.
-about-us-three:
-  name: Contact Us
-  parent-category: about-us
-  parent-category-name: About Us
-  description: Contact us here!
 
 #Schedule
 workshops:

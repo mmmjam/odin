@@ -3,19 +3,20 @@
 schedule:
   name: Schedule
   description: Learn about upcoming workshops here!
-overview:
-  name: Register Now!
   description: Welcome!
 rules-and-guidelines:
   name: Rules and Guidelines
   description: Learn about M<sup>3</sup>J rules here
-about-us:
-  name: About Us
-  description: 
-faqs:
-  name: FAQs
-  description: Please review this page before the problem is released and direct any questions you have to the math jam team.
 resources:
   name: Resources
   description: Here are some resources to get you started.
+about-us:
+  name: About Us
+  description: 
+contact-us:
+  name: Contact Us
+faqs:
+  name: FAQs
+  description: Please review this page before the problem is released and direct any questions you have to the math jam team.
+
 
